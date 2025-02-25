@@ -1,0 +1,427 @@
+[
+    {
+        "2025-02-25 06:43:42": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "RAY",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "RAY",
+                    "confidence_level": "high",
+                    "token_performance_context": "RAY has shown significant declines in price over the past 30 days, with a drop of approximately 68.73%. Additionally, it has a negative trend in the last 24 hours, with a decrease of about 23.76%.",
+                    "expected_duration": "short-term",
+                    "market_signals": "sell signal"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 06:46:37": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "OP",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "OP",
+                    "confidence_level": "medium",
+                    "token_performance_context": "The price of OP has decreased by 8.90% in the last 24 hours and 38.34% in the last 30 days, indicating a downward trend. Additionally, the volume change of 81.89% suggests increased selling pressure.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bearish trend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 06:51:28": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "UNI",
+                    "direction": "hold",
+                    "sentiment": "neutral",
+                    "crypto_tokens_identified": "UNI",
+                    "confidence_level": "moderate",
+                    "token_performance_context": "Despite a high trading volume, UNI has seen a significant decline over the past week (18.61%) and month (34.22%), indicating a potential stabilization point. The recent volume change is positive, suggesting interest could be returning.",
+                    "expected_duration": "short-term",
+                    "market_signals": "hold"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 06:56:33": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "XRP",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "XRP",
+                    "confidence_level": "medium",
+                    "token_performance_context": "XRP has experienced a significant decline over the last 30 days, with a decrease of approximately 28.5%. The recent 24-hour change is also negative, indicating potential continued bearish momentum.",
+                    "expected_duration": "short-term",
+                    "market_signals": "sell"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:01:11": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "GRT",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "GRT",
+                    "confidence_level": "high",
+                    "token_performance_context": "With a significant drop in price (over 38% in the last 30 days) and a notable 24h volume change, GRT is showing bearish trends.",
+                    "expected_duration": "short-term",
+                    "market_signals": "downtrend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:04:34": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "OP",
+                    "direction": "hold",
+                    "sentiment": "cautious",
+                    "crypto_tokens_identified": "OP",
+                    "confidence_level": "medium",
+                    "token_performance_context": "The price of OP has seen a significant drop of 37.97% over the last month, and a 7.41% decline in the last 24 hours, even though the trading volume is relatively high. This suggests that while there is interest in the token, the overall trend is bearish, indicating caution in holding.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bearish"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:05:16": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "OP",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "OP",
+                    "confidence_level": "medium",
+                    "token_performance_context": "The price of OP has decreased by over 7% in the last 24 hours and is down nearly 38% over the last 30 days, indicating a bearish trend. The trading volume shows a significant increase, but the price drop suggests it may be time to sell to avoid further losses.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bearish trend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:06:54": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "S",
+                    "direction": "buy",
+                    "sentiment": "positive",
+                    "crypto_tokens_identified": "S",
+                    "confidence_level": "high",
+                    "token_performance_context": "Despite a current 24-hour drop, the token has shown a strong upward trend over the last 7 and 30 days, indicating potential for recovery and growth.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bullish"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:08:44": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "AAVE",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "AAVE",
+                    "confidence_level": "high",
+                    "token_performance_context": "AAVE has shown a significant decline in price over the last 30 days, with a drop of 39.39%. Additionally, it has seen a 15.45% decrease in the last 24 hours, indicating a bearish trend. The high trading volume suggests selling pressure is present.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bearish trend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:14:20": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "UNI",
+                    "direction": "hold",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "UNI",
+                    "confidence_level": "medium",
+                    "token_performance_context": "UNI has seen a significant downturn over the past 30 days, with a 34.33% decline. The current price of $7.84 reflects this trend, coupled with a high trading volume suggesting active market participation, although the price has decreased over the past hour and 24 hours.",
+                    "expected_duration": "short-term (1-2 weeks)",
+                    "market_signals": "bearish trend and high volatility"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:16:19": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "ENA",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "ENA",
+                    "confidence_level": "medium",
+                    "token_performance_context": "ENA has experienced a significant decline over the past month (down 51.88%) and is currently down 2.1% in the last 24 hours. The high trading volume suggests that there is still interest, but the overall trend is negative.",
+                    "expected_duration": "short-term",
+                    "market_signals": "negative"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:18:23": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "SHIB",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "SHIB",
+                    "confidence_level": "medium",
+                    "token_performance_context": "SHIB has experienced a significant decline in value over the past 30 days, with a drop of over 30%. The current trading volume has increased, but the price continues to decrease, indicating bearish market sentiment.",
+                    "expected_duration": "short-term",
+                    "market_signals": "sell signal"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:20:19": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "BTC",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "DOGE, LDO",
+                    "confidence_level": "medium",
+                    "token_performance_context": "BTC has seen a significant decline in price over the past week and month, indicating bearish sentiment. Volume has increased but the price drop suggests a lack of buyer interest.",
+                    "expected_duration": "short-term",
+                    "market_signals": "downtrend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:27:14": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "GRT",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "GRT",
+                    "confidence_level": "high",
+                    "token_performance_context": "The GRT token has shown a significant decline over the past 30 days, dropping by almost 39%. Additionally, it has experienced a decrease of over 11% in the last 24 hours, indicating a bearish trend.",
+                    "expected_duration": "short-term",
+                    "market_signals": "sell signal"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:29:08": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "GRT",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "GRT",
+                    "confidence_level": "medium",
+                    "token_performance_context": "GRT has experienced a significant drop in price over the past 30 days, with a decline of almost 39%. The trading volume has increased, indicating that traders are exiting positions, which suggests bearish sentiment.",
+                    "expected_duration": "short-term",
+                    "market_signals": "sell"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:31:10": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "JUP",
+                    "direction": "buy",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "JUP",
+                    "confidence_level": "moderate",
+                    "token_performance_context": "JUP has experienced significant price drops over the past 30 days, suggesting it may be undervalued. However, the recent trading volumes indicate increased interest, which could signal a potential rebound.",
+                    "expected_duration": "short-term",
+                    "market_signals": "volume spikes"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:32:59": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "GRT",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "GRT",
+                    "confidence_level": "high",
+                    "token_performance_context": "GRT has experienced significant declines in its price over the past month, with a 30-day drop of over 38%. Additionally, the trading volume has increased, indicating potential sell-off pressure.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bearish trend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:37:26": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "S",
+                    "direction": "buy",
+                    "sentiment": "positive",
+                    "crypto_tokens_identified": "S",
+                    "confidence_level": "high",
+                    "token_performance_context": "Despite a 14.25% drop in 24h, the token has shown a significant 22.21% increase over the past week and a 32.85% increase over the last 30 days, indicating a strong upward trend overall.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bullish"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:39:40": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "ARB",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "ARB",
+                    "confidence_level": "medium",
+                    "token_performance_context": "The price of ARB has decreased significantly over the past month, with a 30-day drop of over 42%. The recent 24-hour volume change indicates a bearish sentiment, reinforcing the decision to sell.",
+                    "expected_duration": "short-term",
+                    "market_signals": "downtrend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:41:39": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "GRT",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "GRT",
+                    "confidence_level": "high",
+                    "token_performance_context": "GRT has seen a significant decline in price over the past 30 days, with a decrease of over 38%. The volume change suggests a possible exit as the trading activity did not reflect a strong buying interest despite the high volume.",
+                    "expected_duration": "short-term",
+                    "market_signals": "price decline"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:43:33": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "GRT",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "GRT",
+                    "confidence_level": "high",
+                    "token_performance_context": "GRT has seen a significant decline in price over the last 30 days, with a 38.6% drop. The recent 24-hour change of -11.93% and a negative change in volume indicates bearish momentum.",
+                    "expected_duration": "short-term",
+                    "market_signals": "downtrend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:48:29": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "RAY",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "RAY",
+                    "confidence_level": "high",
+                    "token_performance_context": "RAY has experienced significant declines over the last 30 days, with a drop of 68.20% and a 20.75% decrease in the last 24 hours, indicating a strong bearish trend. The volume has also decreased by 15.12% in the last 24 hours, suggesting a lack of buying interest.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bearish"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:50:55": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "AAVE",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "AAVE",
+                    "confidence_level": "high",
+                    "token_performance_context": "AAVE has shown significant declines over the past 30 days with a -40.44% change, indicating a strong bearish sentiment. The 24-hour change of -15.80% further supports this trend, making it a candidate for selling.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bearish trend"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:53:04": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "XRP",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "XRP",
+                    "confidence_level": "high",
+                    "token_performance_context": "XRP has experienced significant downward momentum with a 30-day decline of over 29%, indicating a strong bearish sentiment.",
+                    "expected_duration": "short-term",
+                    "market_signals": "sell"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-25 07:55:00": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "XRP",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "XRP",
+                    "confidence_level": "high",
+                    "token_performance_context": "XRP has seen a significant decline in its price over the last 30 days, with a drop of nearly 30%. The recent 24-hour volume change also indicates a bearish trend, making it a candidate for selling.",
+                    "expected_duration": "short-term",
+                    "market_signals": "negative"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    }
+]
