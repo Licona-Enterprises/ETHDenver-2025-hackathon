@@ -25,6 +25,32 @@ contract LiquidityManager is CommonBase {
     uint128 constant MAX_SLIPPAGE_INCREASE = type(uint128).max;
     uint128 constant MIN_SLIPPAGE_DECREASE = 0 wei;
 
+
+    function mintPosition(
+        PoolKey memory poolKey,
+        int24 tickLower,
+        int24 tickUpper,
+        uint256 liquidity,
+        uint128 amount0Max,
+        uint128 amount1Max,
+        address owner,
+        bytes memory hookData,
+        uint256 deadline
+    ) external {
+        bytes memory actionParams = abi.encode(
+            poolKey,
+            tickLower,
+            tickUpper,
+            liquidity,
+            amount0Max,
+            amount1Max,
+            owner,
+            hookData
+        );
+
+        lpm.modifyLiquidities(actionParams, deadline);
+    }
+
     function mint(PositionConfig memory config, uint256 liquidity, address recipient, bytes memory hookData) internal {
         bytes memory calls = getMintEncoded(config, liquidity, recipient, hookData);
         lpm.modifyLiquidities(calls, _deadline);

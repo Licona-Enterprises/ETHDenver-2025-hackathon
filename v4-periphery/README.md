@@ -1,20 +1,8 @@
 # Uniswap v4 Periphery
 
-install foundry
-
 source ~/.bashrc
 
 forge build
-
-forge create src/hooks/LiquidityManager.sol:LiquidityManager \
-  --rpc-url <sepolia_rpc_url> \
-  --private-key <testwallet_private_key> \
-  --broadcast
-
-forge script /script/DeployHook.s.sol:DeployHookScript \
-    --rpc-url <sepolia_rpc_url> \
-    --private-key <testwallet_private_key> \
-    --broadcast
 
 
 
