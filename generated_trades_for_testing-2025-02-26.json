@@ -1,0 +1,274 @@
+[
+    {
+        "2025-02-26 10:03:02": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "LINK",
+                    "direction": "buy",
+                    "sentiment": "bullish",
+                    "crypto_tokens_identified": "LINK",
+                    "confidence_level": "medium",
+                    "token_performance_context": "Despite a significant drop in price over the past month, LINK has shown a positive change in 24 hours, indicating potential recovery. The market sentiment is improving as it bounces back from recent lows.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bullish reversal"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:04:53": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "HYPE",
+                    "direction": "buy",
+                    "sentiment": "bullish",
+                    "crypto_tokens_identified": "HYPE",
+                    "confidence_level": "medium",
+                    "token_performance_context": "HYPE has shown a significant increase of 10.41% in the last 24 hours despite a decrease in trading volume, indicating a potential rebound after recent declines. The positive momentum makes it a candidate for buying.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bullish momentum"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:08:17": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "DOGE",
+                    "direction": "hold",
+                    "sentiment": "neutral",
+                    "crypto_tokens_identified": "DOGE",
+                    "confidence_level": "medium",
+                    "token_performance_context": "DOGE has shown a slight increase in the last 24 hours but has a significant decrease over the last 7 and 30 days. The 24-hour trading volume is relatively high but has decreased, indicating a potential pause in momentum.",
+                    "expected_duration": "short-term",
+                    "market_signals": "hold"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:10:15": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "UNI",
+                    "direction": "hold",
+                    "sentiment": "neutral",
+                    "crypto_tokens_identified": "UNI",
+                    "confidence_level": "medium",
+                    "token_performance_context": "Despite a slight increase in the last 24 hours, UNI has experienced a significant decline over the past week and month, indicating potential volatility ahead.",
+                    "expected_duration": "short-term",
+                    "market_signals": "hold"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:12:11": {
+            "agent_trade_67bf09205b5206b06e6c3487": [
+                {
+                    "token_symbol": "S",
+                    "direction": "buy",
+                    "sentiment": "positive",
+                    "crypto_tokens_identified": "S",
+                    "confidence_level": "high",
+                    "token_performance_context": "S has seen a significant increase of approximately 48.92% over the last 30 days, indicating strong bullish sentiment. Despite a slight decline in the past 1 hour and 24 hours, the overall trend remains positive, making it an attractive buy opportunity.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bullish"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:14:13": {
+            "agent_trade_67bf1655f66c28a8d685c638": [
+                {
+                    "token_symbol": "RAY",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "RAY",
+                    "confidence_level": "high",
+                    "token_performance_context": "RAY has seen significant declines across multiple time frames, with a 30-day drop of over 63%. The volume has also decreased by over 33% in the last 24 hours, indicating a lack of interest and momentum.",
+                    "expected_duration": "short-term",
+                    "market_signals": "negative"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:18:52": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "LDO",
+                    "direction": "buy",
+                    "sentiment": "bullish",
+                    "crypto_tokens_identified": "LDO",
+                    "confidence_level": "moderate",
+                    "token_performance_context": "LDO shows a positive change in the last 24 hours despite a drop in the last week and month, indicating potential for recovery in the near term.",
+                    "expected_duration": "short-term",
+                    "market_signals": "buy"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:20:44": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "S",
+                    "direction": "buy",
+                    "sentiment": "bullish",
+                    "crypto_tokens_identified": "S",
+                    "confidence_level": "high",
+                    "token_performance_context": "Despite a minor drop in the 24-hour percentage change, the 30-day performance shows a significant increase of nearly 50%. This indicates strong upward momentum and potential for further gains.",
+                    "expected_duration": "short-term",
+                    "market_signals": "buy"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:22:33": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "LDO",
+                    "direction": "buy",
+                    "sentiment": "bullish",
+                    "crypto_tokens_identified": "LDO",
+                    "confidence_level": "high",
+                    "token_performance_context": "LDO has shown a positive price change of 4.64% over the last 24 hours, indicating a potential turnaround despite its longer-term downtrend. The current price of $1.39 with a substantial trading volume suggests increasing interest and activity.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bullish reversal"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:24:45": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "UNI",
+                    "direction": "hold",
+                    "sentiment": "neutral",
+                    "crypto_tokens_identified": "UNI",
+                    "confidence_level": "medium",
+                    "token_performance_context": "Despite a recent 1.82% increase in the last 24 hours, UNI has seen a significant decline of over 25% in the last 30 days, which indicates volatility and uncertainty in the market. Holding may be prudent until a clearer trend emerges.",
+                    "expected_duration": "short-term",
+                    "market_signals": "holding"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:26:39": {
+            "agent_trade_67bf09205b5206b06e6c3487": [
+                {
+                    "token_symbol": "HYPE",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "RAY, S",
+                    "confidence_level": "medium",
+                    "token_performance_context": "HYPE has shown a significant increase in the last 24 hours but has a poor performance over the last week and month, indicating potential volatility. The volume has decreased, suggesting reduced interest.",
+                    "expected_duration": "short-term",
+                    "market_signals": "sell"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:28:32": {
+            "agent_trade_67bf1655f66c28a8d685c638": [
+                {
+                    "token_symbol": "BTC",
+                    "direction": "hold",
+                    "sentiment": "neutral",
+                    "crypto_tokens_identified": "BTC",
+                    "confidence_level": "medium",
+                    "token_performance_context": "Despite a slight increase in the last hour, BTC has declined over the past 24 hours and weeks, suggesting a period of consolidation or potential recovery. It may be wise to hold for now and monitor closely for a reversal.",
+                    "expected_duration": "short-term",
+                    "market_signals": "neutral"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:33:08": {
+            "agent_trade_6796e83994e934844958f178": [
+                {
+                    "token_symbol": "LDO",
+                    "direction": "hold",
+                    "sentiment": "cautious",
+                    "crypto_tokens_identified": "LDO",
+                    "confidence_level": "medium",
+                    "token_performance_context": "LDO has shown a 4.64% increase in the last 24 hours, despite a significant decline of over 21% in the past week and nearly 29% in the past month. The recent uptick may suggest a potential reversal, but the longer-term trend remains bearish, indicating caution.",
+                    "expected_duration": "short-term",
+                    "market_signals": "monitor closely"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:35:45": {
+            "agent_trade_67bda73d43d6464a9cad4241": [
+                {
+                    "token_symbol": "RAY",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "RAY",
+                    "confidence_level": "high",
+                    "token_performance_context": "RAY has shown significant decline over the past week and month, with a 7-day decrease of over 45% and a 30-day decrease of nearly 64%. This suggests a strong downward trend, making it a candidate for selling.",
+                    "expected_duration": "short-term",
+                    "market_signals": "strong sell"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:37:33": {
+            "agent_trade_67bdb9282903dc0a8a166379": [
+                {
+                    "token_symbol": "BTC",
+                    "direction": "sell",
+                    "sentiment": "bearish",
+                    "crypto_tokens_identified": "BTC",
+                    "confidence_level": "medium",
+                    "token_performance_context": "BTC has experienced a significant drop in price over the past week and 30 days, indicating a bearish trend. The recent volume change suggests decreasing interest, making it a candidate for selling.",
+                    "expected_duration": "short-term",
+                    "market_signals": "bearish"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    },
+    {
+        "2025-02-26 10:39:36": {
+            "agent_trade_67bdc4eedfa12f3c0843c3d8": [
+                {
+                    "token_symbol": "UNI",
+                    "direction": "hold",
+                    "sentiment": "neutral",
+                    "crypto_tokens_identified": "UNI",
+                    "confidence_level": "medium",
+                    "token_performance_context": "The price of UNI has seen a slight uptick in the last 24 hours, but it has experienced a significant drop over the past week and month. The trading volume has increased, indicating some market interest, but the overall trend remains bearish.",
+                    "expected_duration": "short-term",
+                    "market_signals": "neutral"
+                }
+            ],
+            "agent_signals_considered": []
+        }
+    }
+]

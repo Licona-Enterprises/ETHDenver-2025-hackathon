@@ -4,6 +4,40 @@ source ~/.bashrc
 
 forge build
 
+Test USDC deploy at 0xC7f2Cf4845C6db0e1a1e91ED41Bcd0FcC1b0E141
+
+forge create src/hooks/Agent47Lp.sol:Agent47Lp \
+  --rpc-url https://unichain-sepolia.g.alchemy.com/v2/DaboUGjPdJKw2UY-R1TUCrZhV-q30azQ \
+  --private-key 0xa014ad6259d79063b5f34b73835751dbb8122986d9a4d7573e6d91731ba8ae93 \
+  --broadcast
+
+forge create src/hooks/DebugLPContract.sol:DebugLPContract \
+  --rpc-url https://unichain-sepolia.g.alchemy.com/v2/DaboUGjPdJKw2UY-R1TUCrZhV-q30azQ \
+  --private-key 0xa014ad6259d79063b5f34b73835751dbb8122986d9a4d7573e6d91731ba8ae93 \
+  --broadcast
+
+forge create src/hooks/TestnetTokenERC20.sol:TestnetTokenERC20 \
+  --rpc-url https://unichain-sepolia.g.alchemy.com/v2/DaboUGjPdJKw2UY-R1TUCrZhV-q30azQ \
+  --private-key 0xa014ad6259d79063b5f34b73835751dbb8122986d9a4d7573e6d91731ba8ae93 \
+  --broadcast
+
+
+forge create src/hooks/LiquidityManager.sol:LiquidityManager \
+  --rpc-url https://unichain-sepolia.g.alchemy.com/v2/DaboUGjPdJKw2UY-R1TUCrZhV-q30azQ \
+  --private-key 0xa014ad6259d79063b5f34b73835751dbb8122986d9a4d7573e6d91731ba8ae93 \
+  --broadcast
+
+forge script /Users/Alejandro_Licona/Downloads/v4-periphery/script/DeployHook.s.sol:DeployHookScript \
+    --rpc-url https://unichain-sepolia.g.alchemy.com/v2/DaboUGjPdJKw2UY-R1TUCrZhV-q30azQ \
+    --private-key 0xa014ad6259d79063b5f34b73835751dbb8122986d9a4d7573e6d91731ba8ae93 \
+    --broadcast
+
+
+forge create src/hooks/AgHook1.sol:AgHook1 \
+  --rpc-url https://unichain-sepolia.g.alchemy.com/v2/DaboUGjPdJKw2UY-R1TUCrZhV-q30azQ \
+  --private-key 0xa014ad6259d79063b5f34b73835751dbb8122986d9a4d7573e6d91731ba8ae93 \
+  --constructor-args $(cast abi-encode "constructor(address)" 0x00B036B58a818B1BC34d502D3fE730Db729e62AC) \
+  --broadcast
 
 
 
