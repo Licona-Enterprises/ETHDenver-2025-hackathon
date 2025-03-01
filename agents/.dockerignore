@@ -1,0 +1,34 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore testing directories or files
+tests/
+
+# Ignore version control files
+.git/
+.gitignore
+.github
+
+# Ignore IDE and editor-specific files
+.vscode/
+.idea/
+
+# Ignore documentation files
+docs/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files and directories
+tmp/
+temp/
+
+# Ignore build artifacts
+dist/
+build/
+*.o
+*.a
+*.out
+*.class
