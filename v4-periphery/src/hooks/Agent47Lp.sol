@@ -95,7 +95,7 @@ contract Agent47Lp {
         uint256 valueToPass = currency0.isAddressZero() ? depositAmount0 : 0;
 
         // Call modifyLiquidities dynamically with encoded params
-        // posm.modifyLiquidities{value: valueToPass}(abi.encode(actions, params), deadline);
+        posm.modifyLiquidities{value: valueToPass}(abi.encode(actions, params), deadline);
 
         // Emit event for LP order
         emit LPOrderRouted(msg.sender, abi.encode(actions, params), deadline);
